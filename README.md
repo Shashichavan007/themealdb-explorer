@@ -39,7 +39,4 @@ Frontend runs on `http://localhost:5173`.
 - `GET /api/meals/random`
 - `GET /api/meals/:id`
 
-## Notes
-- The backend uses TheMealDB public API with the development key `1`.
-- The cache has TTL and max-size protections.
-- If the backend is already running on port 5000, stop the previous process before starting a new one.
+
